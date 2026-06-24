@@ -12,6 +12,7 @@ License:	MIT
 Group:		Development/Tools
 BuildRequires:	cmake
 BuildRequires:	rust
+BuildRequires:	cargo
 BuildSystem:	cmake
 Requires:	cmake
 Requires:	rust
