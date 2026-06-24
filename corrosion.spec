@@ -11,6 +11,7 @@ URL:		https://github.com/corrosion-rs/corrosion
 License:	MIT
 Group:		Development/Tools
 BuildRequires:	cmake
+BuildRequires:	rust
 BuildSystem:	cmake
 Requires:	cmake
 Requires:	rust
